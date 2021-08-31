@@ -5,3 +5,4 @@ american_bulldog = true
 staffordshire_terrier = true
 labradoodle = false
 bully_breeds = ['american_bulldog', 'staffordshire_terrier', 'pit_bull_terrier', 'bull_terrier']
+other_dogs = { "golden_retriver" => "shelty" => "poodle"  }
